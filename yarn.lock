@@ -766,6 +766,11 @@
   resolved "https://registry.npmjs.org/@pkgr/core/-/core-0.1.1.tgz"
   integrity sha512-cq8o4cWH0ibXh9VGi5P20Tu9XF/0fFXl9EUinr9QfTM7a7p0oTA4iJRCQWppXR1Pg8dSM0UCItCkPwsk9qWWYA==
 
+"@prisma/client@^6.3.0":
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-6.3.0.tgz#21cb91be237fa84f03fd2376e599567aea50fc6e"
+  integrity sha512-BY3Fi28PUSk447Bpv22LhZp4HgNPo7NsEN+EteM1CLDnLjig5863jpW+3c3HHLFmml+nB/eJv1CjSriFZ8z7Cg==
+
 "@prisma/debug@6.2.1":
   version "6.2.1"
   resolved "https://registry.yarnpkg.com/@prisma/debug/-/debug-6.2.1.tgz#887719967c4942d125262e48f6c47c45d17c1f61"
@@ -1281,7 +1286,7 @@
     "@nestjs/common" "^10.0.0"
     "@nestjs/core" "^10.0.0"
     "@nestjs/platform-express" "^10.0.0"
-    NestJs "file:C:/Users/ASUS Series/AppData/Local/Yarn/Cache/v6/npm-est-s-0.0.1-b0806fcf-f3f3-4428-b952-1c549d9a360d-1736799236850/node_modules/NestJs"
+    NestJs "file:C:/Users/ASUS Series/AppData/Local/Yarn/Cache/v6/npm-est-s-0.0.1-66fe3b35-61d4-4424-a383-ad3fcdddfebb-1738173558454/node_modules/NestJs"
     reflect-metadata "^0.2.0"
     rxjs "^7.8.1"
 
